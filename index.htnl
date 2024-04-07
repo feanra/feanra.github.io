@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Coming Soon</title>
+    <link rel="stylesheet" href="output.css" />
+  </head>
+  <body
+    class="bg-amber-300 min-h-screen min-w-screen relative flex justify-center items-center font-manrope"
+  >
+    <div class="text-center">
+      <h1 class="text-4xl md:text-6xl lg:text-8xl font-bold text-slate-900">
+        Coming Soon
+      </h1>
+    </div>
+    <footer class="text-center text-slate-800 absolute bottom-0">
+      <p>&copy; 2024 All rights reserved.</p>
+    </footer>
+  </body>
+</html>
